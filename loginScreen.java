@@ -13,7 +13,7 @@ import org.postgresql.shaded.com.ongres.scram.common.ScramAttributes;
 
 
 public class loginScreen extends javax.swing.JFrame {
-    private String url="jdbc:postgresql://localhost:5432/344_HMW2", user="postgres", password="Yaren1401";
+    private String url="jdbc:postgresql://localhost:5432/344_HMW2", user="postgres", password="YOUR_PASSWORD";
     private String username;
    
     public loginScreen() {
