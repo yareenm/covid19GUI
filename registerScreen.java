@@ -20,7 +20,7 @@ public class registerScreen extends javax.swing.JFrame {
     private String id,name,surname,username,password1,allergy_Info,chronicD_Info;
     private char gender,pregnancy='F';
     private Date birth_Date;
-    private String url="jdbc:postgresql://localhost:5432/344_HMW2", user="postgres", password="Yaren1401";
+    private String url="jdbc:postgresql://localhost:5432/344_HMW2", user="postgres", password="YOUR_PASSWORD";
     
      public registerScreen() {
         initComponents();
