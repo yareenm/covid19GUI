@@ -9,7 +9,7 @@ import javax.swing.table.DefaultTableModel;
 
 
 public class appointmentScreen extends javax.swing.JFrame {
-    private String url="jdbc:postgresql://localhost:5432/344_HMW2", user="postgres", password="Yaren1401";
+    private String url="jdbc:postgresql://localhost:5432/344_HMW2", user="postgres", password="YOUR_PASSWORD";
     private DefaultTableModel tblModel;
     private String username,status=" ",id,dose1="F",dose2="F";
     
